@@ -2,8 +2,4 @@ Republic of Belarus
 Gomel region
 Mozyr, Geologov street, 15
 Postcode: 247795
-<<<<<<< HEAD
 Best city
-=======
-Best city
->>>>>>> parent of 6711460 (feat: add river)
